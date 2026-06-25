@@ -1,6 +1,6 @@
 {% set name = "diamond" %}
-{% set version = "2.2.0" %}
-{% set sha256 = "d06d26cfa474e17132a9ea4c0a2a7ce4ec7e2ce937606173b401883d62eff730" %}
+{% set version = "2.2.2" %}
+{% set sha256 = "35cb389dad7326515267b21a04256382853754d32b48eae6fd8a56fbb191e1c6" %}
 
 package:
   name: {{ name }}
